@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpConsole", "CSharpConsole\CSharpConsole.csproj", "{1D700F8C-3054-44AE-90CA-D97D32132E6D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{894B615C-5B0D-4982-B996-9F0F40DFC85A}"
+	ProjectSection(SolutionItems) = preProject
+		CSharpConsole.ico = CSharpConsole.ico
+		CSharpConsole48px.png = CSharpConsole48px.png
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D700F8C-3054-44AE-90CA-D97D32132E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D700F8C-3054-44AE-90CA-D97D32132E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D700F8C-3054-44AE-90CA-D97D32132E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D700F8C-3054-44AE-90CA-D97D32132E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A79C814D-26C2-4DC1-A52F-927D8418075C}
+	EndGlobalSection
+EndGlobal
