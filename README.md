@@ -6,6 +6,10 @@ Useful for checking how a fragment of C# code might behave or what it returns, h
 
 This utility has evolved slowly over years of my need to quickly determine how a given C# statement behaves in various circumstances
 
+# Download
+
+Binary available for download at https://www.lsdwa.com/projects/csharp-console/
+
 # Usage
 
 Requires .Net Framework 4.0.
